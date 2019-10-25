@@ -1,4 +1,4 @@
-## busby 
+## Busby 
 
 * 매일 아침 같은 버스를 타고 다니는 바쁜 직장인들을 위해  
 
@@ -31,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/46305309/65409667-3ff8c380-de23-11e9-91be-3cf188a169c2.jpg" alt="busby1" width="40%" />
 
 <br>
-  
+
 #### 2. 빨리 오는 순으로 정렬
 
 * 가장 빨리 도착예정인 버스 순서대로 정렬하여 결과 제공
@@ -45,7 +45,7 @@
 * 출발 정류장에 도착예정인 모든 버스의 도착정보 제공
 
 <img src="https://user-images.githubusercontent.com/46305309/65411372-a97ad100-de27-11e9-8dfe-73cd7239519a.jpg" alt="busby2" width="40%" />
-  
+
 <br>
 
 #### 4. 정거장 수
@@ -55,7 +55,7 @@
 <img src="https://user-images.githubusercontent.com/46305309/65411397-bc8da100-de27-11e9-8f99-3c9dc2861a6d.jpg" alt="busby4" width="40%"/>
 
 <br>
-  
+
 ### *저상버스 
 
 * 저상버스를 주로 이용하시는 장애인 분들을 위해, 발화에 '저상버스'를 포함하여 말하면 
